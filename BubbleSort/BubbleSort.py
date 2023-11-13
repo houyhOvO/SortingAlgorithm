@@ -10,7 +10,7 @@ def bubble_sort(arr):
 
 if __name__ == "__main__":
     arr = [64, 34, 25, 12, 22, 11, 90]
-    print("Sorting array...")
+    print("Sorting array......")
     bubble_sort(arr)
     print(arr)
     
